@@ -1,0 +1,22 @@
+body{
+        background: url("letterbg.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+        box-sizing: border-box;
+    }
+h2{
+    color: #000;
+    width: 100%;
+    height: 550px;
+    padding: 15px
+}
+.content{
+    background: url("letterbg.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+        box-sizing: border-box;
+}
